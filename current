@@ -1,9 +1,8 @@
-What's new (v0.1.2): 
+What's new (v0.1.3): 
   Mechanics: 
-    1. Added a misc-landing page
-    2. Added an affiliate brand-page featuring
-        a. BisectHosting
-        b. G2A Steam Keys
+    1. Added a forced-verify email.
+    2. Rate limited signups and logins.
   Visual:
-    1. Updated text across the site
-    2. Adjusted colors and layout of dashboard
+    1. Updated text across the site.
+    2. Rehaul of Home Page.
+    3. Updated visuals on login screen.
