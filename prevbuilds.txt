@@ -8,3 +8,12 @@ old logs
       1. Added glassy visuals on the earn page
       2. Added new brand colors, for different earning types
       3. Updated the whole website UI to be more visibly appealing, tapping into more modern, youthful vibe
+
+What's new (v0.1.1): 
+  Mechanics: 
+    1. No new mechanics today
+  Visual:
+    1. Updated text across the site
+    2. Adjusted colors across the site
+    3. Added paypal-blue to the cashout page
+    4. Changed location of changelog on home screen.
