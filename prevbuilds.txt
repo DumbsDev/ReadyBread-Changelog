@@ -1,0 +1,10 @@
+old logs
+
+0.1.0:
+  Mechanics: 
+      1. Added this super awesome changelog, hosted on GitHub.
+      2. Added a game shelf/offerwall, allowing users play games to earn money
+    Visual:
+      1. Added glassy visuals on the earn page
+      2. Added new brand colors, for different earning types
+      3. Updated the whole website UI to be more visibly appealing, tapping into more modern, youthful vibe
