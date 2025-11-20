@@ -50,3 +50,9 @@ What's new (v0.2.0):
     2. Added new bits and bobs to the dashboard
   Visual:
     1. Nothing to write home about :p
+What's new (v0.2.1): 
+  Mechanics: 
+    1. Added TOS, Privacy Policy, and Earning Disclosure
+    2. Added a new card to the home screen pointing to the affiliate channel
+  Visual:
+    1. Added a new type of "card", labeled "gold-card", for color customization.
