@@ -27,3 +27,11 @@ What's new (v0.1.2):
   Visual:
     1. Updated text across the site
     2. Adjusted colors and layout of dashboard
+What's new (v0.1.3): 
+  Mechanics: 
+    1. Added a forced-verify email.
+    2. Rate limited signups and logins.
+  Visual:
+    1. Updated text across the site.
+    2. Rehaul of Home Page.
+    3. Updated visuals on login screen.
