@@ -35,3 +35,13 @@ What's new (v0.1.3):
     1. Updated text across the site.
     2. Rehaul of Home Page.
     3. Updated visuals on login screen.
+
+What's new (v0.1.4): 
+  Mechanics: 
+    1. Added CashApp as a withdrawal method
+    2. Added multiple charities as withdrawal method (and a 5% match)
+    3. Integrated login screen on some pages (WIP)
+  Visual:
+    1. Updated visuals on the home page
+    2. Update visuals on the rewards page
+
