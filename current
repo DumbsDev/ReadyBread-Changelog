@@ -1,8 +1,6 @@
-What's new (v0.1.4): 
+What's new (v0.2.0): 
   Mechanics: 
-    1. Added CashApp as a withdrawal method
-    2. Added multiple charities as withdrawal method (and a 5% match)
-    3. Integrated login screen on some pages (WIP)
+    1. Added a referral bonus system
+    2. Added new bits and bobs to the dashboard
   Visual:
-    1. Updated visuals on the home page
-    2. Update visuals on the rewards page
+    1. Nothing to write home about :p
