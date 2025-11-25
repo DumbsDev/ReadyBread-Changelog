@@ -1,7 +1,13 @@
-What's new (v0.2.2): 
+What's new (v0.4.0): 
   Mechanics: 
-    1. Added an admin panel
-    2. Added higher level security and threat detection system
-    3. Added the start of a "security" card in the earn page
+    1. Added the BreadClicker game
+    2. Added BreadClicker to the home screen
+    3. Added a "Top Survey" and "Top Game" feature on the home screen
+    4. Added a landing page for user's not logged in
+    5. Added functional surveys via CPX (green survey cards)
+    6. Added a daily streak, increasing your earnings by 0.5% daily (up to 10%)
+    7. Isolated danger zone
   Visual:
-    1. Nothing to write home about.
+    1. Complete revamp of the home screen
+    2. Color coded surveys based on provider
+    3. Made surveys more compact, and easier to navigate on mobile.
