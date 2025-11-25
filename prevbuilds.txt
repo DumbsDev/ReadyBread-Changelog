@@ -56,3 +56,11 @@ What's new (v0.2.1):
     2. Added a new card to the home screen pointing to the affiliate channel
   Visual:
     1. Added a new type of "card", labeled "gold-card", for color customization.
+What's new (v0.2.2): 
+  Mechanics: 
+    1. Added an admin panel
+    2. Added higher level security and threat detection system
+    3. Added the start of a "security" card in the earn page
+  Visual:
+    1. Nothing to write home about.
+
