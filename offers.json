@@ -1,16 +1,53 @@
 {
-  "title": "AdGem Game Wall",
-  "clickUrl": "https://api.adgem.com/v1/wall?appid=31547&playerid={UID}",
-  "imageUrl": "https://adgem.com/wp-content/uploads/2019/11/AdGem_OfferWall_Icons_v1_300px_Rounded.png",
-  "payout": 0,
-  "estMinutes": null,
-  "provider": "adgem",
-  "isWall": true,
-  "priority": 10,
-  "disclaimer": "Opens the AdGem wall.",
-  "objectives": [
-    { "name": "Reach level 5", "reward": 3.50 },
-    { "name": "Reach level 10", "reward": 6.50 }
-  ],
-  "isActive": true
+  "offers": [
+    {
+      "id": "test-android-rpg",
+      "title": "Hero Quest: Android Beta",
+      "payout": 12.5,
+      "imageUrl": "https://dummyimage.com/512x512/ffd166/1f1a0a&text=HQ",
+      "clickUrl": "https://example.com/offer?uid={UID}&campaign=hero-quest",
+      "provider": "direct",
+      "isWall": false,
+      "priority": 10,
+      "devices": ["android"],
+      "objectives": [
+        { "name": "Install and complete tutorial", "reward": 2.5 },
+        { "name": "Reach player level 5", "reward": 4.0 },
+        { "name": "Reach player level 10", "reward": 6.0 }
+      ],
+      "disclaimer": "Rewards post after each objective is confirmed. Keep the game installed until you are paid."
+    },
+    {
+      "id": "test-ios-survival",
+      "title": "Island Survival (iOS)",
+      "payout": 9.0,
+      "imageUrl": "https://dummyimage.com/512x512/fca311/1f1a0a&text=IS",
+      "clickUrl": "https://example.com/offer?uid={UID}&campaign=island-ios",
+      "provider": "direct",
+      "isWall": false,
+      "priority": 8,
+      "devices": ["ios"],
+      "objectives": [
+        { "name": "Install and open", "reward": 2.0 },
+        { "name": "Build second shelter", "reward": 3.0 },
+        { "name": "Reach day 7", "reward": 4.0 }
+      ]
+    },
+    {
+      "id": "test-pc-strategy",
+      "title": "Kingdom Planner (PC)",
+      "payout": 7.5,
+      "imageUrl": "https://dummyimage.com/512x512/06d6a0/1f1a0a&text=KP",
+      "clickUrl": "https://example.com/offer?uid={UID}&campaign=kingdom-pc",
+      "provider": "direct",
+      "priority": 6,
+      "devices": ["windows", "mac"],
+      "objectives": [
+        { "name": "Finish tutorial", "reward": 2.0 },
+        { "name": "Complete first ranked match", "reward": 2.5 },
+        { "name": "Win 3 ranked matches", "reward": 3.0 }
+      ],
+      "disclaimer": "Runs best on desktop browsers. Use the same device for all steps."
+    }
+  ]
 }
