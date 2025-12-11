@@ -6,10 +6,11 @@
       "payout": 12.5,
       "imageUrl": "https://dummyimage.com/512x512/ffd166/1f1a0a&text=HQ",
       "clickUrl": "https://example.com/offer?uid={UID}&campaign=hero-quest",
-      "provider": "direct",
+      "provider": "ReadyBread",
       "isWall": false,
       "priority": 10,
       "devices": ["android"],
+      "status": "null"
       "objectives": [
         { "name": "Install and complete tutorial", "reward": 2.5 },
         { "name": "Reach player level 5", "reward": 4.0 },
@@ -23,10 +24,11 @@
       "payout": 9.0,
       "imageUrl": "https://dummyimage.com/512x512/fca311/1f1a0a&text=IS",
       "clickUrl": "https://example.com/offer?uid={UID}&campaign=island-ios",
-      "provider": "direct",
+      "provider": "ReadyBread",
       "isWall": false,
       "priority": 8,
       "devices": ["ios"],
+      "status": "null"
       "objectives": [
         { "name": "Install and open", "reward": 2.0 },
         { "name": "Build second shelter", "reward": 3.0 },
@@ -39,8 +41,9 @@
       "payout": 7.5,
       "imageUrl": "https://dummyimage.com/512x512/06d6a0/1f1a0a&text=KP",
       "clickUrl": "https://example.com/offer?uid={UID}&campaign=kingdom-pc",
-      "provider": "direct",
+      "provider": "ReadyBread",
       "priority": 6,
+      "status": "null"
       "devices": ["windows", "mac"],
       "objectives": [
         { "name": "Finish tutorial", "reward": 2.0 },
