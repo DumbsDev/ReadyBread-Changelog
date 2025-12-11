@@ -1,0 +1,16 @@
+{
+  "title": "AdGem Game Wall",
+  "clickUrl": "https://api.adgem.com/v1/wall?appid=31547&playerid={UID}",
+  "imageUrl": "https://adgem.com/wp-content/uploads/2019/11/AdGem_OfferWall_Icons_v1_300px_Rounded.png",
+  "payout": 0,
+  "estMinutes": null,
+  "provider": "adgem",
+  "isWall": true,
+  "priority": 10,
+  "disclaimer": "Opens the AdGem wall.",
+  "objectives": [
+    { "name": "Reach level 5", "reward": 3.50 },
+    { "name": "Reach level 10", "reward": 6.50 }
+  ],
+  "isActive": true
+}
