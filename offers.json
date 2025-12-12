@@ -5,14 +5,14 @@
       "title": "RevU",
       "payout": 12.5,
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtGRbTPeReGKclEbElOuC9Gngy4-WjLlwEdQ&s",
-      "clickUrl": "httpshttps://publishers.revenueuniverse.com/wallresp/1481/offers?uid={uid}&sid3={sid3}",
+      "clickUrl": "https://publishers.revenueuniverse.com/wallresp/1481/offers?uid={UID}&sid3={SID3}",
       "provider": "RevU",
-      "isWall": true,
+      "isWall": false,
       "priority": 1,
-      "devices": ["android","ios","windows","mac"],
-      "status": "null"
+      "devices": ["android", "ios", "windows", "mac"],
+      "status": "null",
       "objectives": [
-        { "name": "Open the RevU Offerwall and start earning!" }
+        { "name": "Open the RevU Offerwall and start earning!", "reward": 0 }
       ],
       "disclaimer": "All offers on RevU are handled by RevU. If you face any issues, please contact their support."
     }
